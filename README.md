@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there 👋, I’m Ali Safinal
 
-<!--
-**safinal/safinal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Web Developer
+- 🎓 Software Engineering Student
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+</br>
+
+
+<a href="https://github.com/safinal">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=safinal&show_icons=true&theme=tokyonight" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safinal&hide=html,css&layout=compact&theme=tokyonight"/>
+</a>
+
+</br>
+</br>
+
+📫 **Contact me by:**
+
+* [Email](mailto:alisafinal2001@gmail.com)
+* [Linkedin](https://linkedin.com/in/safinal)
+* [Personal Website](https://safinal.pythonanywhere.com)
