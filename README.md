@@ -21,4 +21,4 @@
 
 * [Email](mailto:alisafinal2001@gmail.com)
 * [Linkedin](https://linkedin.com/in/safinal)
-* [Personal Website](https://safinal.pythonanywhere.com)
+* [Personal Website](https://safinal.com)
