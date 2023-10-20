@@ -1,7 +1,7 @@
-### Hi there 👋, I’m Ali Safinal
+### Hi there 👋, I’m Ali Nafisi
 
-- 👨‍💻 Web Developer
-- 🎓 Software Engineering Student
+- 👨‍💻 Machine Learning Engineer
+- 🎓 Master's student in Artificial Intelligence
 
 </br>
 
@@ -21,4 +21,4 @@
 
 * [Email](mailto:alisafinal2001@gmail.com)
 * [Linkedin](https://linkedin.com/in/safinal)
-* [Personal Website](https://safinal.com)
+* [Personal Website](https://safinal.github.io)
