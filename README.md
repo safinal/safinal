@@ -6,7 +6,7 @@ I have broad interests in Deep Learning, with a particular focus on its applicat
 
 Currently, my research is focused on Debiasing Image Datasets using Generative Models, addressing critical issues of fairness and reliability in AI systems.
 
-I’m always open to collaboration and connecting with others in the field. Feel free to reach out!
+I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to impactful, cutting-edge projects.
 
 📫 **Contact me by:**
 
