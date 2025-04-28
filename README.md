@@ -8,8 +8,19 @@ Currently, my research is focused on Debiasing Image Datasets using Generative M
 
 I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to impactful, cutting-edge projects.
 
-📫 **Contact me by:**
 
-* [Email](mailto:alisafinal2001@gmail.com)
-* [Linkedin](https://linkedin.com/in/safinal)
-* [Personal Website](https://safinal.github.io)
+📫 **Contact me by:**
+* [Website/Homepage](https://safinal.github.io)
+* [Linkedin](https://www.linkedin.com/in/Safinal)
+* [Google Scholar](https://scholar.google.com/citations?user=SM_UuoQAAAAJ&hl=en)
+* [Hugging Face](http://huggingface.co/Safinal)
+* [Kaggle](https://www.kaggle.com/AliSafinal)
+* [ResearchGate](https://www.researchgate.net/profile/Ali-Nafisi)
+* [Medium](https://medium.com/@Safinal)
+* [X](https://x.com/AliSafinal)
+* [Bluesky](https://bsky.app/profile/Safinal.bsky.social)
+* [YouTube](https://www.youtube.com/@AliSafinal)
+* [Telegram](https://t.me/AliSafinal)
+* [Instagram](https://www.instagram.com/AliSafinal)
+* [Reddit](https://www.reddit.com/user/AliSafinal)
+* [Gmail](mailto:alisafinal2001@gmail.com)
