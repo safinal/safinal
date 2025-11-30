@@ -2,7 +2,7 @@
 
 I’m currently completing my MS in AI at Bu-Ali Sina University. I earned my BS in Computer Engineering from the University of Kurdistan in 2023.
 
-My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Generation, Trustworthy AI, Program Synthesis, and Reinforcement Learning.
+My research interests broadly lie in Deep Learning, with a particular focus on its applications in Multimodal Models, Trustworthy AI, Program Synthesis, and Reinforcement Learning.
 
 My current work explores the use of diffusion models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
 
