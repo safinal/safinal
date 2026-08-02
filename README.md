@@ -10,6 +10,6 @@ I’m actively seeking a PhD position where I can continue to grow as a research
 
 
 📫 **Contact me by:**
-* [Website/Homepage](https://safinal.github.io)
+* [Homepage](https://safinal.github.io)
 * [Linkedin](https://www.linkedin.com/in/Safinal)
 * [Gmail](mailto:alisafinal2001@gmail.com)
