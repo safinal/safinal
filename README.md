@@ -6,9 +6,6 @@ My research experience is rooted in Deep Learning, specifically Natural Language
 
 My current work explores the use of image editing models for counterfactual data augmentation to mitigate spurious correlations in image datasets.
 
-I’m actively seeking a PhD position where I can continue to grow as a researcher and contribute to cutting-edge, high-impact projects.
-
-
 📫 **Contact me by:**
 * [Homepage](https://safinal.github.io)
 * [Linkedin](https://www.linkedin.com/in/Safinal)
